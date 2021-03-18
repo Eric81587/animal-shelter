@@ -1,0 +1,18 @@
+.column {
+float: left;
+width: 200px;
+box-sizing: border;
+padding: 20px;
+
+}
+
+/* .display {
+  display: inline-table;
+} */
+
+.paragraph{
+  padding: 5px;
+  border: 2px solid black;
+  background-color: rgb(134, 134, 218);
+  color: white;
+}
