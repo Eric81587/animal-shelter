@@ -16,3 +16,9 @@ padding: 20px;
   background-color: rgb(134, 134, 218);
   color: white;
 }
+
+img {
+  /* height: 200px; */
+  margin: auto;
+  width: 100%;
+}
